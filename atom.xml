@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Bingo]]></title>
-  <subtitle><![CDATA[Happy]]></subtitle>
+  <title><![CDATA[Bingo's Blog]]></title>
+  <subtitle><![CDATA[Stay hungry, Stay foolish, Stop when you are perfect.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://leeguoren.github.io/"/>
-  <updated>2016-01-31T07:48:18.045Z</updated>
+  <updated>2016-02-01T02:52:26.022Z</updated>
   <id>http://leeguoren.github.io/</id>
   
   <author>
@@ -13,6 +13,75 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[eight]]></title>
+    <link href="http://leeguoren.github.io/2016/02/01/eight/"/>
+    <id>http://leeguoren.github.io/2016/02/01/eight/</id>
+    <published>2016-02-01T02:52:26.000Z</published>
+    <updated>2016-02-01T02:52:26.022Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[seven]]></title>
+    <link href="http://leeguoren.github.io/2016/02/01/seven/"/>
+    <id>http://leeguoren.github.io/2016/02/01/seven/</id>
+    <published>2016-02-01T02:50:44.000Z</published>
+    <updated>2016-02-01T02:50:44.423Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[six]]></title>
+    <link href="http://leeguoren.github.io/2016/02/01/six/"/>
+    <id>http://leeguoren.github.io/2016/02/01/six/</id>
+    <published>2016-02-01T02:47:03.000Z</published>
+    <updated>2016-02-01T02:47:03.960Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[fivth]]></title>
+    <link href="http://leeguoren.github.io/2016/01/31/fivth/"/>
+    <id>http://leeguoren.github.io/2016/01/31/fivth/</id>
+    <published>2016-01-31T13:23:56.000Z</published>
+    <updated>2016-01-31T16:19:48.142Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="kaixin" scheme="http://leeguoren.github.io/categories/kaixin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[forth]]></title>
+    <link href="http://leeguoren.github.io/2016/01/31/forth/"/>
+    <id>http://leeguoren.github.io/2016/01/31/forth/</id>
+    <published>2016-01-31T13:23:42.000Z</published>
+    <updated>2016-01-31T16:20:00.423Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="sdf" scheme="http://leeguoren.github.io/categories/sdf/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[third]]></title>
@@ -45,13 +114,17 @@
     <link href="http://leeguoren.github.io/2016/01/31/first/"/>
     <id>http://leeguoren.github.io/2016/01/31/first/</id>
     <published>2016-01-31T05:48:04.000Z</published>
-    <updated>2016-01-31T05:50:06.612Z</updated>
+    <updated>2016-01-31T16:10:58.344Z</updated>
     <content type="html"><![CDATA[<p>##hello my first blood</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>##hello my first blood</p>
 ]]>
     </summary>
+    
+      <category term="haha" scheme="http://leeguoren.github.io/tags/haha/"/>
+    
+      <category term="文档" scheme="http://leeguoren.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
   </entry>
   
