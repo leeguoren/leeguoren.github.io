@@ -17,9 +17,9 @@ function sskadmin(e) {
     var ssk = '';
     if (e.user_id == 6245961960609809153) {
         if (checkMobile()) {
-            ssk = '<span class="this_ua sskadmin">ROOT</span><br><br>';
+            ssk = '<span class="this_ua sskadmin">博主</span><br><br>';
         } else {
-            ssk = '<span class="this_ua sskadmin">ROOT</span>';
+            ssk = '<span class="this_ua sskadmin">博主</span>';
         }
     } else {
         if (checkMobile()) {
