@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://leeguoren.github.io/about/index.html</loc>
+    <lastmod>2016-02-02T05:20:05.700Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leeguoren.github.io/index/index.html</loc>
+    <lastmod>2016-02-02T05:19:08.468Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://leeguoren.github.io/2016/02/01/eight/</loc>
     <lastmod>2016-02-01T02:52:26.022Z</lastmod>
   </url>
@@ -43,11 +53,6 @@
   
   <url>
     <loc>http://leeguoren.github.io/2016/01/31/hello-world/</loc>
-    <lastmod>2016-01-30T13:45:09.173Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://leeguoren.github.io/about/index.html</loc>
     <lastmod>2016-01-30T13:45:09.173Z</lastmod>
   </url>
   
