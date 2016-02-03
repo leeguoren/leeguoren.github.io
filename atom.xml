@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Stay hungry, Stay foolish, Stop when you are perfect.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://leeguoren.github.io/"/>
-  <updated>2016-02-01T02:52:26.022Z</updated>
+  <updated>2016-02-03T16:08:47.571Z</updated>
   <id>http://leeguoren.github.io/</id>
   
   <author>
@@ -15,138 +15,128 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[eight]]></title>
-    <link href="http://leeguoren.github.io/2016/02/01/eight/"/>
-    <id>http://leeguoren.github.io/2016/02/01/eight/</id>
-    <published>2016-02-01T02:52:26.000Z</published>
-    <updated>2016-02-01T02:52:26.022Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[seven]]></title>
-    <link href="http://leeguoren.github.io/2016/02/01/seven/"/>
-    <id>http://leeguoren.github.io/2016/02/01/seven/</id>
+    <title><![CDATA[给博客添加百度统计]]></title>
+    <link href="http://leeguoren.github.io/2016/02/01/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/"/>
+    <id>http://leeguoren.github.io/2016/02/01/给博客添加百度统计/</id>
     <published>2016-02-01T02:50:44.000Z</published>
-    <updated>2016-02-01T02:50:44.423Z</updated>
+    <updated>2016-02-03T16:08:47.571Z</updated>
     <content type="html"></content>
     <summary type="html">
     
     </summary>
     
+      <category term="Hexo" scheme="http://leeguoren.github.io/tags/Hexo/"/>
+    
+      <category term="学习" scheme="http://leeguoren.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
   </entry>
   
   <entry>
-    <title><![CDATA[six]]></title>
-    <link href="http://leeguoren.github.io/2016/02/01/six/"/>
-    <id>http://leeguoren.github.io/2016/02/01/six/</id>
+    <title><![CDATA[给博客添加 多说 评论]]></title>
+    <link href="http://leeguoren.github.io/2016/02/01/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E5%A4%9A%E8%AF%B4%E8%AF%84%E8%AE%BA/"/>
+    <id>http://leeguoren.github.io/2016/02/01/给博客添加多说评论/</id>
     <published>2016-02-01T02:47:03.000Z</published>
-    <updated>2016-02-01T02:47:03.960Z</updated>
+    <updated>2016-02-03T15:55:54.690Z</updated>
     <content type="html"></content>
     <summary type="html">
     
     </summary>
     
-  </entry>
-  
-  <entry>
-    <title><![CDATA[fivth]]></title>
-    <link href="http://leeguoren.github.io/2016/01/31/fivth/"/>
-    <id>http://leeguoren.github.io/2016/01/31/fivth/</id>
-    <published>2016-01-31T13:23:56.000Z</published>
-    <updated>2016-01-31T16:19:48.142Z</updated>
-    <content type="html"></content>
-    <summary type="html">
+      <category term="Hexo" scheme="http://leeguoren.github.io/tags/Hexo/"/>
     
-    </summary>
-    
-      <category term="kaixin" scheme="http://leeguoren.github.io/categories/kaixin/"/>
+      <category term="学习" scheme="http://leeguoren.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[forth]]></title>
-    <link href="http://leeguoren.github.io/2016/01/31/forth/"/>
-    <id>http://leeguoren.github.io/2016/01/31/forth/</id>
+    <title><![CDATA[给博客添加 swiftype 站内搜索]]></title>
+    <link href="http://leeguoren.github.io/2016/01/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%20swiftype%20%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2/"/>
+    <id>http://leeguoren.github.io/2016/01/31/给博客添加 swiftype 站内搜索/</id>
     <published>2016-01-31T13:23:42.000Z</published>
-    <updated>2016-01-31T16:20:00.423Z</updated>
+    <updated>2016-02-03T15:57:56.269Z</updated>
     <content type="html"></content>
     <summary type="html">
     
     </summary>
     
-      <category term="sdf" scheme="http://leeguoren.github.io/categories/sdf/"/>
+      <category term="Hexo" scheme="http://leeguoren.github.io/tags/Hexo/"/>
+    
+      <category term="学习" scheme="http://leeguoren.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[third]]></title>
-    <link href="http://leeguoren.github.io/2016/01/31/third/"/>
-    <id>http://leeguoren.github.io/2016/01/31/third/</id>
+    <title><![CDATA[给博客换上 Jacman 主题]]></title>
+    <link href="http://leeguoren.github.io/2016/01/31/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%8D%A2%E4%B8%8A%20Jacman%20%E4%B8%BB%E9%A2%98/"/>
+    <id>http://leeguoren.github.io/2016/01/31/给博客换上 Jacman 主题/</id>
     <published>2016-01-31T07:48:18.000Z</published>
-    <updated>2016-01-31T07:48:18.045Z</updated>
+    <updated>2016-02-03T15:53:22.622Z</updated>
     <content type="html"></content>
     <summary type="html">
     
     </summary>
     
+      <category term="Hexo" scheme="http://leeguoren.github.io/tags/Hexo/"/>
+    
+      <category term="学习" scheme="http://leeguoren.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
   </entry>
   
   <entry>
-    <title><![CDATA[two]]></title>
-    <link href="http://leeguoren.github.io/2016/01/31/two/"/>
-    <id>http://leeguoren.github.io/2016/01/31/two/</id>
+    <title><![CDATA[用 GitHub 和 Hexo 搭建静态 Blog]]></title>
+    <link href="http://leeguoren.github.io/2016/01/31/%E7%94%A8%20GitHub%20%E5%92%8C%20Hexo%20%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%20Blog/"/>
+    <id>http://leeguoren.github.io/2016/01/31/用 GitHub 和 Hexo 搭建静态 Blog/</id>
     <published>2016-01-31T07:18:37.000Z</published>
-    <updated>2016-01-31T07:18:37.782Z</updated>
-    <content type="html"></content>
+    <updated>2016-02-03T15:44:59.257Z</updated>
+    <content type="html"><![CDATA[<h2 id="u51C6_u5907_u5DE5_u4F5C"><a href="#u51C6_u5907_u5DE5_u4F5C" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="u4E86_u89E3_Hexo"><a href="#u4E86_u89E3_Hexo" class="headerlink" title="了解 Hexo"></a>了解 Hexo</h3><p><code>Hexo</code> 是一个快速、简洁且高效的博客框架。<code>Hexo</code> 使用 <code>Markdown</code>（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
+<h3 id="u5B89_u88C5_GitHub_Windows"><a href="#u5B89_u88C5_GitHub_Windows" class="headerlink" title="安装 GitHub Windows"></a>安装 GitHub Windows</h3><h3 id="u5B89_u88C5_Node-JS"><a href="#u5B89_u88C5_Node-JS" class="headerlink" title="安装 Node.JS"></a>安装 Node.JS</h3><h3 id="u5B89_u88C5_Hexo"><a href="#u5B89_u88C5_Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><p>双击桌面上的 <code>Git Shell</code>，输入 <code>npm</code> 命令即可安装<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">npm install hexo --save</span><br></pre></td></tr></table></figure></p>
+<h2 id="Hexo__u521D_u59CB_u5316"><a href="#Hexo__u521D_u59CB_u5316" class="headerlink" title="Hexo 初始化"></a>Hexo 初始化</h2><h3 id="u521B_u5EFA_Hexo__u6587_u4EF6_u5939"><a href="#u521B_u5EFA_Hexo__u6587_u4EF6_u5939" class="headerlink" title="创建 Hexo 文件夹"></a>创建 Hexo 文件夹</h3><p>根据自己喜好建立目录（如 <code>E:\kuaipan\GitHub\hexo</code> ），进入 <code>Git Shell</code> 切换到该路径下 <code>E:\kuaipan\GitHub\hexo</code> 执行以下指令<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure></p>
+<h3 id="u5B89_u88C5_Hexo__u63D2_u4EF6"><a href="#u5B89_u88C5_Hexo__u63D2_u4EF6" class="headerlink" title="安装 Hexo 插件"></a>安装 Hexo 插件</h3><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-index --save</span><br><span class="line">npm install hexo-generator-archive --save</span><br><span class="line">npm install hexo-generator-category --save</span><br><span class="line">npm install hexo-generator-tag --save</span><br><span class="line">npm install hexo-server --save</span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line">npm install hexo-deployer-heroku --save</span><br><span class="line">npm install hexo-deployer-rsync --save</span><br><span class="line">npm install hexo-deployer-openshift --save</span><br><span class="line">npm install hexo-renderer-marked@<span class="number">0.2</span> --save</span><br><span class="line">npm install hexo-renderer-stylus@<span class="number">0.2</span> --save</span><br><span class="line">npm install hexo-generator-feed@<span class="number">1</span> --save</span><br><span class="line">npm install hexo-generator-sitemap@<span class="number">1</span> --save</span><br></pre></td></tr></table></figure>
+<h3 id="u67E5_u770B_u672C_u5730_u6548_u679C"><a href="#u67E5_u770B_u672C_u5730_u6548_u679C" class="headerlink" title="查看本地效果"></a>查看本地效果</h3><p>继续执行以下命令，成功后可登录 <code>localhost:4000</code> 查看效果<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></p>
+<h2 id="u90E8_u7F72_u9759_u6001_u7F51_u9875_u5230_GitHub"><a href="#u90E8_u7F72_u9759_u6001_u7F51_u9875_u5230_GitHub" class="headerlink" title="部署静态网页到 GitHub"></a>部署静态网页到 GitHub</h2><h3 id="u6CE8_u518C_u8BBE_u7F6E_GitHub"><a href="#u6CE8_u518C_u8BBE_u7F6E_GitHub" class="headerlink" title="注册设置 GitHub"></a>注册设置 GitHub</h3><ul>
+<li>登录 <code>GitHub</code>，注册自定义用户名如 <code>leeguoren</code></li>
+<li>在主页右下角创建 <code>New repository</code>，<code>name</code> 必须和用户名一致如 <code>leeguoren.github.io</code></li>
+<li>首次创建耐心等待 10 分钟左右审核，之后即可访问静态主页如 <code>http://leeguoren.github.io</code></li>
+</ul>
+<h3 id="u540C_u6B65_u5185_u5BB9_u81F3_GitHub"><a href="#u540C_u6B65_u5185_u5BB9_u81F3_GitHub" class="headerlink" title="同步内容至 GitHub"></a>同步内容至 GitHub</h3><p>编辑 <code>E:\kuaipan\GitHub\hexo</code> 下的 <code>_config.yml</code>文件，建议使用 <code>Sublime Text</code>。在 <code>_config.yml</code> 最下方，添加如下配置（要把 <code>repository</code> 的用户名修改成自己的）<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy: </span><br><span class="line">  type: git</span><br><span class="line">  repository: https:<span class="comment">//github.com/leeguoren/leeguoren.github.io.git</span></span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure></p>
+<p>然后在 <code>Git Shell</code> 中输入如下命令<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></p>
+<h3 id="u67E5_u770B_u6548_u679C"><a href="#u67E5_u770B_u6548_u679C" class="headerlink" title="查看效果"></a>查看效果</h3><p>在浏览器访问 <code>leeguoren.github.io</code> 就能看到自己的博客了。第一次访问刚地址，可能访问不了，您可以在几分钟后进行访问，一般不超过 10 分钟。</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<h2 id="u51C6_u5907_u5DE5_u4F5C"><a href="#u51C6_u5907_u5DE5_u4F5C" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="u4E86_u89E3_Hexo"><]]>
     </summary>
+    
+      <category term="Hexo" scheme="http://leeguoren.github.io/tags/Hexo/"/>
+    
+      <category term="学习" scheme="http://leeguoren.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[first]]></title>
-    <link href="http://leeguoren.github.io/2016/01/31/first/"/>
-    <id>http://leeguoren.github.io/2016/01/31/first/</id>
+    <title><![CDATA[为什么写博客？]]></title>
+    <link href="http://leeguoren.github.io/2016/01/31/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2%EF%BC%9F/"/>
+    <id>http://leeguoren.github.io/2016/01/31/为什么写博客？/</id>
     <published>2016-01-31T05:48:04.000Z</published>
-    <updated>2016-01-31T16:10:58.344Z</updated>
-    <content type="html"><![CDATA[<p>##hello my first blood</p>
+    <updated>2016-02-03T14:10:42.895Z</updated>
+    <content type="html"><![CDATA[<h2 id="u524D_u8A00"><a href="#u524D_u8A00" class="headerlink" title="前言"></a>前言</h2><p>为什么写博客？ 这是一个没有标准答案的问题，每个人心中或许都有自己的答案。对于我来说，我写博客是为了记录学习和生活、更深入地思考等等。</p>
+<h2 id="u5199_u535A_u5BA2_u6709_u54EA_u4E9B_u597D_u5904"><a href="#u5199_u535A_u5BA2_u6709_u54EA_u4E9B_u597D_u5904" class="headerlink" title="写博客有哪些好处"></a>写博客有哪些好处</h2><ol>
+<li>记录学习和生活</li>
+<li>促进思考</li>
+<li>保持持之以恒地做一件事情的习惯</li>
+<li>推销自己</li>
+<li>交到许多志同道合的朋友</li>
+</ol>
+<h2 id="u81EA_u5DF1_u7684_u535A_u5BA2_u5386_u53F2"><a href="#u81EA_u5DF1_u7684_u535A_u5BA2_u5386_u53F2" class="headerlink" title="自己的博客历史"></a>自己的博客历史</h2><p>记得大一暑期刚来实验室的时候，学长让我们做的第一件事情，不是敲题而是建个自己的博客，用来记录 ACM 的解题思路。这便是我第一次接触博客，当时不懂为何还要记录解题思路。学长说的就照做了，于是便有了我的第一个 <a href="http://blog.csdn.net/kl28978113" target="_blank" rel="external">博客</a> （里面记录400多道的题解，还有几十篇的软件的安装与配置）。  写博客久了后，慢慢体会到了它的种种好处，但是由于大多数博客网站的个性化低，于是便想建立一个属于自己的博客，但是买服务器和域名又麻烦，最后选择用 GitHub 来建立自己的博客（免费提供 300M 的空间，省去了买服务器和域名的麻烦），在物色各种主题后，最终选择了 jacman 这个主题（简洁大方），这便是本博客。</p>
+<h2 id="u672C_u535A_u5BA2_u7684_u5B9A_u4F4D"><a href="#u672C_u535A_u5BA2_u7684_u5B9A_u4F4D" class="headerlink" title="本博客的定位"></a>本博客的定位</h2><p>主要用来记录自己的各种软件的配置，还有学习和生活的记录。</p>
+<h2 id="u6700_u540E"><a href="#u6700_u540E" class="headerlink" title="最后"></a>最后</h2><p>希望通过本博客交到许多志同道合的小伙伴们！欢迎你们的来访！</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>##hello my first blood</p>
-]]>
+    <![CDATA[<h2 id="u524D_u8A00"><a href="#u524D_u8A00" class="headerlink" title="前言"></a>前言</h2><p>为什么写博客？ 这是一个没有标准答案的问题，每个人心中或许都有自己的答案。对于我来说，我写博客是为了记录]]>
     </summary>
     
-      <category term="haha" scheme="http://leeguoren.github.io/tags/haha/"/>
+      <category term="life" scheme="http://leeguoren.github.io/tags/life/"/>
     
-      <category term="文档" scheme="http://leeguoren.github.io/categories/%E6%96%87%E6%A1%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://leeguoren.github.io/2016/01/31/hello-world/"/>
-    <id>http://leeguoren.github.io/2016/01/31/hello-world/</id>
-    <published>2016-01-31T02:36:55.865Z</published>
-    <updated>2016-01-30T13:45:09.173Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.]]>
-    </summary>
+      <category term="生活" scheme="http://leeguoren.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
