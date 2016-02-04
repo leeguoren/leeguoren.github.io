@@ -11,16 +11,31 @@
     
 
     
-    <meta name="description">
+    <meta name="description" content="前言站内搜索顾名思义就是将范围限定在你的网站内，以此范围进行关键字搜索。
+正文
+到swiftype官网进行注册 swiftype注册
+登陆swiftype后，点击CREATE SEARCH ENGINE，之后填入自己的网址等等几个操作。
+进入install页面，左边有4个大的选项，分别为：外观、安装代码、搜索框、起动。
+在appearance一项，建议使用默认，一直NEXT，最后SAVA&amp;amp;">
 <meta property="og:type" content="article">
 <meta property="og:title" content="给博客添加 swiftype 站内搜索">
 <meta property="og:url" content="http://leeguoren.github.io/2016/01/31/给博客添加 swiftype 站内搜索/index.html">
 <meta property="og:site_name" content="Bingo's Blog">
-<meta property="og:description">
-<meta property="og:updated_time" content="2016-02-03T15:57:56.269Z">
+<meta property="og:description" content="前言站内搜索顾名思义就是将范围限定在你的网站内，以此范围进行关键字搜索。
+正文
+到swiftype官网进行注册 swiftype注册
+登陆swiftype后，点击CREATE SEARCH ENGINE，之后填入自己的网址等等几个操作。
+进入install页面，左边有4个大的选项，分别为：外观、安装代码、搜索框、起动。
+在appearance一项，建议使用默认，一直NEXT，最后SAVA&amp;amp;">
+<meta property="og:updated_time" content="2016-02-04T06:33:57.265Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="给博客添加 swiftype 站内搜索">
-<meta name="twitter:description">
+<meta name="twitter:description" content="前言站内搜索顾名思义就是将范围限定在你的网站内，以此范围进行关键字搜索。
+正文
+到swiftype官网进行注册 swiftype注册
+登陆swiftype后，点击CREATE SEARCH ENGINE，之后填入自己的网址等等几个操作。
+进入install页面，左边有4个大的选项，分别为：外观、安装代码、搜索框、起动。
+在appearance一项，建议使用默认，一直NEXT，最后SAVA&amp;amp;">
 
     
     <link rel="alternative" href="/atom.xml" title="Bingo&#39;s Blog" type="application/atom+xml">
@@ -97,11 +112,31 @@
 		<div id="toc" class="toc-article">
 			<strong class="toc-title">文章目录</strong>
 		
-			
+			<ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#u524D_u8A00"><span class="toc-number">1.</span> <span class="toc-text">前言</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#u6B63_u6587"><span class="toc-number">2.</span> <span class="toc-text">正文</span></a></li></ol>
 		
 		</div>
 		
-		  
+		<h2 id="u524D_u8A00"><a href="#u524D_u8A00" class="headerlink" title="前言"></a>前言</h2><p>站内搜索顾名思义就是将范围限定在你的网站内，以此范围进行关键字搜索。</p>
+<h2 id="u6B63_u6587"><a href="#u6B63_u6587" class="headerlink" title="正文"></a>正文</h2><ol>
+<li>到<code>swiftype</code>官网进行注册 <a href="https://swiftype.com/users/sign_up" target="_blank" rel="external">swiftype注册</a></li>
+<li>登陆<code>swiftype</code>后，点击<code>CREATE SEARCH ENGINE</code>，之后填入自己的网址等等几个操作。</li>
+<li>进入<code>install</code>页面，左边有4个大的选项，分别为：外观、安装代码、搜索框、起动。</li>
+<li>在<code>appearance</code>一项，建议使用默认，一直<code>NEXT</code>，最后<code>SAVA&amp;PREVIEW</code></li>
+<li>进入安装代码<code>install code</code>一项，将生成的代码复制一份，后面用到</li>
+<li>进入最后一项<code>activate</code>，找到右下角的<code>ACTIVATE SWIFTYPE</code>按钮，点击即可，此时你已经完成了<code>swiftype</code>网站上的所有配置。</li>
+<li><p>打开<code>hexo\themes\jacman\_config.yml</code>文件，在末尾添加</p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">swiftype:     <span class="preprocessor">## https:<span class="comment">//swiftype.com/</span></span></span><br><span class="line">  enable: <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>先打开<code>hexo\themes\jacman\layout\_partial\header.ejs</code>文件，然后在这段代码中间</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">&lt;% &#125; <span class="keyword">else</span> <span class="keyword">if</span>(theme.tinysou_search.enable)&#123; %&gt;</span><br><span class="line">		<span class="xml"><span class="tag">&lt;<span class="title">form</span> <span class="attribute">class</span>=<span class="value">"search"</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">label</span>&gt;</span>Search<span class="tag">&lt;/<span class="title">label</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">input</span> <span class="attribute">type</span>=<span class="value">"text"</span> <span class="attribute">id</span>=<span class="value">"ts-search-input"</span> <span class="attribute">name</span>=<span class="value">"q"</span> <span class="attribute">size</span>=<span class="value">"30"</span> <span class="attribute">placeholder</span>=<span class="value">"&lt;%= __('search') %&gt;"</span>&gt;</span><span class="tag">&lt;<span class="title">br</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="title">form</span>&gt;</span>		</span><br><span class="line"><span class="tag">&lt;<span class="title">%</span> &#125; <span class="attribute">else</span> &#123; %&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">form</span> <span class="attribute">class</span>=<span class="value">"search"</span> <span class="attribute">action</span>=<span class="value">"//google.com/search"</span> <span class="attribute">method</span>=<span class="value">"get"</span> <span class="attribute">accept-charset</span>=<span class="value">"utf-8"</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">label</span>&gt;</span>Search<span class="tag">&lt;/<span class="title">label</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">input</span> <span class="attribute">type</span>=<span class="value">"search"</span> <span class="attribute">id</span>=<span class="value">"search"</span> <span class="attribute">name</span>=<span class="value">"q"</span> <span class="attribute">autocomplete</span>=<span class="value">"off"</span> <span class="attribute">maxlength</span>=<span class="value">"20"</span> <span class="attribute">placeholder</span>=<span class="value">"&lt;%= __('search') %&gt;"</span> /&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">input</span> <span class="attribute">type</span>=<span class="value">"hidden"</span> <span class="attribute">name</span>=<span class="value">"q"</span> <span class="attribute">value</span>=<span class="value">"site:&lt;%- config.url.replace(/^https?:\/\//, '') %&gt;"</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="title">form</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">%</span> &#125; %&gt;</span></span></span><br></pre></td></tr></table></figure>
+<p> 加入如下代码</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;% &#125; <span class="keyword">else</span> <span class="keyword">if</span>(theme.swiftype&amp;&amp;theme.swiftype.enable)&#123; %&gt;</span><br><span class="line">		<span class="xml"><span class="tag">&lt;<span class="title">form</span> <span class="attribute">class</span>=<span class="value">"search"</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">label</span>&gt;</span>Search<span class="tag">&lt;/<span class="title">label</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">input</span> <span class="attribute">type</span>=<span class="value">"text"</span> <span class="attribute">id</span>=<span class="value">"search"</span> <span class="attribute">class</span>=<span class="value">"st-default-search-input"</span> <span class="attribute">maxlength</span>=<span class="value">"20"</span> <span class="attribute">placeholder</span>=<span class="value">"&lt;%= __('search') %&gt;"</span> /&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="title">form</span>&gt;</span></span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>最后打开<code>hexo\themes\jacman\layout\_partial\footer.ejs</code>，在最后一个标签之前添加一开始拷贝的那段<code>js</code>代码，我的是：</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&lt;script type=<span class="string">"text/javascript"</span>&gt;</span><br><span class="line">    (<span class="function"><span class="keyword">function</span>(<span class="params">w,d,t,u,n,s,e</span>)</span>&#123;w[<span class="string">'SwiftypeObject'</span>]=n;w[n]=w[n]||<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">      (w[n].q=w[n].q||[]).push(<span class="built_in">arguments</span>);&#125;;s=d.createElement(t);</span><br><span class="line">      e=d.getElementsByTagName(t)[<span class="number">0</span>];s.async=<span class="number">1</span>;s.src=u;e.parentNode.insertBefore(s,e);</span><br><span class="line">      &#125;)(<span class="built_in">window</span>,<span class="built_in">document</span>,<span class="string">'script'</span>,<span class="string">'//s.swiftypecdn.com/install/v2/st.js'</span>,<span class="string">'_st'</span>);</span><br><span class="line">  </span><br><span class="line">      _st(<span class="string">'install'</span>,<span class="string">'xPCQc1ATWL1kZyN4MRh-'</span>,<span class="string">'2.0.0'</span>);</span><br><span class="line">  <span class="xml"><span class="tag">&lt;/<span class="title">script</span>&gt;</span></span></span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+  
 	</div>
 		<footer class="article-footer clearfix">
 <div class="article-catetags">
@@ -167,7 +202,7 @@
   <div id="toc" class="toc-aside">
   <strong class="toc-title">文章目录</strong>
  
- 
+ <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#u524D_u8A00"><span class="toc-number">1.</span> <span class="toc-text">前言</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#u6B63_u6587"><span class="toc-number">2.</span> <span class="toc-text">正文</span></a></li></ol>
  
   </div>
 
